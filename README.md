@@ -9,8 +9,6 @@
 - Visualization Tools: Tableau, Power Bi and Excel
 - Programming Language: Python and SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoolee)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Social Information:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brunoolee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leebruno10/)
