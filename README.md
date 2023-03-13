@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🎒 I'm currently a student in Computer Information Systems with a concentration in Programmer/Analyst
-- 🔭 I’m currently working on different projects related to Data Analysis
+- 🔭 I’m currently working on different Data Analytics and IOS development projects
 - 🔍 I'm looking forward to creating more projects for Data Analysis and starting studying Swift and Xcode for IOS development
 
 ## Skills
