@@ -2,12 +2,12 @@
 
 - 🎒 I'm currently a student in Computer Information Systems with a concentration in Programmer/Analyst
 - 🔭 I’m currently working on different Data Analytics and IOS development projects
-- 🔍 I'm looking forward to creating more projects for Data Analysis and starting studying Swift and Xcode for IOS development
+- 🔍 I'm looking forward to creating more projects for Data Analysis and studying Swift and Xcode for IOS development
 
 ## 💡 Languages and Tools
 
 - Visualization Tools: Tableau, Power Bi and Excel
-- Programming Language: Python, MySQL and Microsoft Azure SQL
+- Programming Language: Python, MySQL and Microsoft SQL Server
 
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
