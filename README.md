@@ -12,7 +12,7 @@
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <br><br/>
           
           
